@@ -1,4 +1,4 @@
-#Pipex 42
+# Pipex 42
 
 How to use the program :
 
