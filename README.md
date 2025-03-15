@@ -3,6 +3,7 @@
 How to use the program :
 
 > make
+
 > ./pipex infile "cmd1" "cmd2" outfile
  
 like in bash :
