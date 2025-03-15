@@ -8,7 +8,7 @@ How to use the program :
  
 like in bash :
 
-> "< infile "cmd1" | "cmd2" > outfile"
+> "< infile cmd1 | cmd2 > outfile"
 
 ### If you want to use multipipe and here_doc :
 
