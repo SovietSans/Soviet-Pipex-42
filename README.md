@@ -15,6 +15,7 @@ like in bash :
 in bash command use :
 
 > make bonus
+
 > ./pipex infile "cmd1" ... "cmdn" outfile
 
 with here_doc :
