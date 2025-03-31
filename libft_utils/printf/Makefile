@@ -3,7 +3,7 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: ttremel <marvin@42.fr>                     +#+  +:+       +#+         #
+#    By: soviet  <marvin@42.fr>                     +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/10/18 09:59:39 by soviet            #+#    #+#              #
 #    Updated: 2024/12/17 12:25:41 by soviet           ###   ########.fr        #
