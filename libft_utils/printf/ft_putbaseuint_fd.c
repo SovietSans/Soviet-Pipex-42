@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putbaseuint_fd.c                                :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ttremel <marvin@42.fr>                     +#+  +:+       +#+        */
+/*   By: soviet  <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/01 12:37:32 by soviet            #+#    #+#             */
 /*   Updated: 2024/11/01 13:55:13 by soviet           ###   ########.fr       */
