@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_ubase_count.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ttremel <marvin@42.fr>                     +#+  +:+       +#+        */
+/*   By: soviet  <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/01 13:01:30 by soviet            #+#    #+#             */
 /*   Updated: 2024/11/01 13:18:36 by soviet           ###   ########.fr       */
