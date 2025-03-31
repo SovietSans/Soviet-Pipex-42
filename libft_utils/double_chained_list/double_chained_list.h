@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   double_chained_list.h                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ttremel <marvin@42.fr>                     +#+  +:+       +#+        */
+/*   By: soviet  <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/16 17:58:17 by soviet            #+#    #+#             */
 /*   Updated: 2025/03/03 14:01:37 by soviet           ###   ########.fr       */
