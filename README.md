@@ -24,4 +24,4 @@ with here_doc :
 
 like in bash :
 
-> << here_doc LIMITER cmd1 | cmd2 >> outfile
+> << LIMITER cmd1 | cmd2 >> outfile
