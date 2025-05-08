@@ -6,7 +6,7 @@ How to use the program :
 
 > ./pipex infile "cmd1" "cmd2" outfile
  
-like in bash :
+in bash :
 
 > < infile cmd1 | cmd2 > outfile
 
@@ -22,6 +22,6 @@ with here_doc :
 
 > ./pipex here_doc LIMITER "cmd1" ... "cmdn" outfile
 
-like in bash :
+in bash :
 
 > << LIMITER cmd1 | cmd2 >> outfile
